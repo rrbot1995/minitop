@@ -1,7 +1,6 @@
 # ref : https://github.com/kubernetes/test-infra/blob/master/OWNERS
 approvers:
 - qrr1995
-- rrbot1995
 reviewers:
 - qrr1995
 - rrbot1995
